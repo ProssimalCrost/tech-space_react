@@ -1,27 +1,30 @@
-# React + TypeScript + Vite
+# 🚀 Mini Rede Social com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma aplicação simples de rede social desenvolvida em **React** (via CDN, sem build), que permite:
+- Registro e login de usuários  
+- Criação e exclusão de posts  
+- Curtidas em posts  
+- Persistência de dados usando **localStorage**  
+- Hooks essenciais: **useState** e **useEffect**
 
-Currently, two official plugins are available:
+Ideal para fins **educacionais** e **portfólio**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Demonstração
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<img src="screenshot.png" alt="Tela da Mini Rede Social" width="600"/>
 
-- Configure the top-level `parserOptions` property like this:
+---
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## 🛠️ Tecnologias Utilizadas
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- [React 18](https://react.dev/)  
+- [ReactDOM](https://react.dev/reference/react-dom)  
+- [Babel Standalone](https://babeljs.io/) para JSX direto no navegador  
+- **localStorage** para persistência  
+
+---
+
+## 📂 Estrutura do Projeto
+
