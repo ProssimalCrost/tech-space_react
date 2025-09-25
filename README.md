@@ -13,7 +13,7 @@ Ideal para fins **educacionais** e **portfólio**.
 
 ## 🖼️ Demonstração
 
-<img src="[screenshot.png](https://github.com/ProssimalCrost/tech-space_react/blob/48e376952206f519faa09bcbb833518a7f5e72b5/public/Capturar.PNG?raw=true)" alt="Tela da Mini Rede Social" width="600"/>
+<img src="(https://github.com/ProssimalCrost/tech-space_react/blob/48e376952206f519faa09bcbb833518a7f5e72b5/public/Capturar.PNG?raw=true)" alt="Tela da Mini Rede Social" width="600"/>
 
 ---
 
